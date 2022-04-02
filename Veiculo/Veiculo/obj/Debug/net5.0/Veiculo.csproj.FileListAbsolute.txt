@@ -1,0 +1,16 @@
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\bin\Debug\net5.0\Veiculo.exe
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\bin\Debug\net5.0\Veiculo.deps.json
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\bin\Debug\net5.0\Veiculo.runtimeconfig.json
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\bin\Debug\net5.0\Veiculo.runtimeconfig.dev.json
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\bin\Debug\net5.0\Veiculo.dll
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\bin\Debug\net5.0\ref\Veiculo.dll
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\bin\Debug\net5.0\Veiculo.pdb
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\obj\Debug\net5.0\Veiculo.csproj.AssemblyReference.cache
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\obj\Debug\net5.0\Veiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\obj\Debug\net5.0\Veiculo.AssemblyInfoInputs.cache
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\obj\Debug\net5.0\Veiculo.AssemblyInfo.cs
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\obj\Debug\net5.0\Veiculo.csproj.CoreCompileInputs.cache
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\obj\Debug\net5.0\Veiculo.dll
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\obj\Debug\net5.0\ref\Veiculo.dll
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\obj\Debug\net5.0\Veiculo.pdb
+C:\Users\ModalGR\Desktop\Estudo\Veiculo\Veiculo\obj\Debug\net5.0\Veiculo.genruntimeconfig.cache

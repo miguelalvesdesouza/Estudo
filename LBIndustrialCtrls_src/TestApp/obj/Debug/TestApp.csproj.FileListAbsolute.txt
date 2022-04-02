@@ -1,0 +1,11 @@
+F:\temp\TP\LBIndustrialCtrls_src\TestApp\bin\Debug\TestApp.exe
+F:\temp\TP\LBIndustrialCtrls_src\TestApp\bin\Debug\TestApp.pdb
+F:\temp\TP\LBIndustrialCtrls_src\TestApp\bin\Debug\LBIndustrialCtrls.dll
+F:\temp\TP\LBIndustrialCtrls_src\TestApp\bin\Debug\LBIndustrialCtrls.pdb
+F:\temp\TP\LBIndustrialCtrls_src\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+F:\temp\TP\LBIndustrialCtrls_src\TestApp\obj\Debug\TestApp.MainForm.resources
+F:\temp\TP\LBIndustrialCtrls_src\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+F:\temp\TP\LBIndustrialCtrls_src\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+F:\temp\TP\LBIndustrialCtrls_src\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+F:\temp\TP\LBIndustrialCtrls_src\TestApp\obj\Debug\TestApp.exe
+F:\temp\TP\LBIndustrialCtrls_src\TestApp\obj\Debug\TestApp.pdb

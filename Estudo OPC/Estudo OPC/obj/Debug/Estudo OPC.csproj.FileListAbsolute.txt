@@ -1,0 +1,54 @@
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Estudo OPC.exe.config
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Estudo OPC.exe
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Estudo OPC.pdb
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\obj\Debug\Estudo OPC.csproj.AssemblyReference.cache
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\obj\Debug\Estudo_OPC.Form1.resources
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\obj\Debug\Estudo_OPC.Properties.Resources.resources
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\obj\Debug\Estudo OPC.csproj.GenerateResource.cache
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\obj\Debug\Estudo OPC.csproj.CoreCompileInputs.cache
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\obj\Debug\Estudo OPC.exe
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\obj\Debug\Estudo OPC.pdb
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Opc.Ua.Client.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Opc.Ua.ClientControls.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Opc.Ua.Core.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\System.Buffers.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Opc.Ua.Client.pdb
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Opc.Ua.ClientControls.pdb
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Opc.Ua.ClientControls.dll.config
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Opc.Ua.Configuration.pdb
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\bin\Debug\Opc.Ua.Core.pdb
+C:\Users\ModalGR\Desktop\Estudo\Estudo OPC\Estudo OPC\obj\Debug\Estudo OPC.exe.config

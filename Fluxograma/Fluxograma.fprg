@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ModalGR"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-03-16 10:17:27 "/>
+        <attribute name="created" value="TW9kYWxHUjtERVNLVE9QLTQ1SjJCSEk7MjAyMi0wMy0xNjsiMTA6MDE6MTYgIjsyODQ5"/>
+        <attribute name="edited" value="TW9kYWxHUjtERVNLVE9QLTQ1SjJCSEk7MjAyMi0wMy0xNjsiMTA6MTc6MjcgIjsxOzI5NjY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nota1, Nota2, Nota3, Nota4, Total, Media" type="Real" array="False" size=""/>
+            <input variable="Nota1"/>
+            <input variable="Nota2"/>
+            <input variable="Nota3"/>
+            <input variable="Nota4"/>
+            <assign variable="Total" expression="Nota1 + Nota2 + Nota3 + Nota4"/>
+            <assign variable="Media" expression="Total/4"/>
+            <output expression="Total" newline="True"/>
+            <output expression="Media" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

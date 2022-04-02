@@ -1,0 +1,16 @@
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\bin\Debug\net5.0\Teste.exe
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\bin\Debug\net5.0\Teste.deps.json
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\bin\Debug\net5.0\Teste.runtimeconfig.json
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\bin\Debug\net5.0\Teste.runtimeconfig.dev.json
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\bin\Debug\net5.0\Teste.dll
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\bin\Debug\net5.0\ref\Teste.dll
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\bin\Debug\net5.0\Teste.pdb
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\obj\Debug\net5.0\Teste.csproj.AssemblyReference.cache
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\obj\Debug\net5.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\obj\Debug\net5.0\Teste.AssemblyInfoInputs.cache
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\obj\Debug\net5.0\Teste.AssemblyInfo.cs
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\obj\Debug\net5.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\obj\Debug\net5.0\Teste.dll
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\obj\Debug\net5.0\ref\Teste.dll
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\obj\Debug\net5.0\Teste.pdb
+C:\Users\ModalGR\Desktop\Estudo\testes\Teste\Teste\obj\Debug\net5.0\Teste.genruntimeconfig.cache

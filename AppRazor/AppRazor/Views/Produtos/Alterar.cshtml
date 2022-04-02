@@ -1,0 +1,19 @@
+﻿@{
+    var produto = ViewBag.Produto;
+}
+<div>
+    <h1>Alterando produto</h1>
+    <form action="/Produtos/Salvar" method="post">
+        <div>
+            <input type="hidden" id="id" name="id" value="@produto.Id" />
+            <label for="nome">Nome:</label>
+            <input pattern="[a-zA-Z0-9]+" type="text" id="nome" name="nome" required value="@produto.Nome" />
+            <label for="nome">Descrição:</label>
+            <input type="text" id="descricao" name="descricao" required value="@produto.Descricao"/>
+        </div>
+        <button type="submit" class="btn btn-primary">Alterar</button>
+
+    </form>
+</div>
+
+

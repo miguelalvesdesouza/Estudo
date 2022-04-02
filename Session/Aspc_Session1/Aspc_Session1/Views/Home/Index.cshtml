@@ -1,0 +1,17 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div class="text-center">
+        <h2 class="display-4">Usando Session</h2>
+        <hr />
+        <h3>Valores obtidos da Session</h3>
+        <hr />
+        Nome : @HttpContextAccessor.HttpContext.Session.GetString("SessionNome")
+        <br />
+        Idade : @HttpContextAccessor.HttpContext.Session.GetInt32("SessionIdade")
+
+    </div>

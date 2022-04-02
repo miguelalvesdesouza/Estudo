@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    @using Microsoft.AspNetCore.Http;
+    @inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor;
+}
+
+<div class="text-center">
+    <h1>@ViewBag.MensagemIndex</h1>
+    <h1>@HttpContextAccessor.HttpContext.Session.GetString("session")</h1>
+
+</div>

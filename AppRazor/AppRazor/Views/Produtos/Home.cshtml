@@ -1,0 +1,39 @@
+﻿@{
+
+}
+
+<div>
+    <h1>Este é o menu</h1>
+    <form action="/Produtos/Procurar" method="post">
+        <input type="radio" id="nome" name="opcao" value="nome" required/>
+        <label for="nome">Nome</label>
+        <input type="radio" id="descricao" name="opcao" value="descricao" required/>
+        <label for="descricao">Descrição</label>
+        
+        <input type="text" id="pesquisar" name="pesquisar" />
+        <button type="submit" class="btn btn-primary">Pesquisar</button>
+    </form>
+
+
+    <table>
+        <tr>
+            <th>Nome</th>
+            <th>Descrição</th>
+            <th>Ação</th>
+        </tr>
+        @foreach (var lista in ViewBag.ListaProdutos)
+        {
+            <tr>
+                <td title="Nome">@lista.Nome</td>
+                <td title="Descrição">@lista.Descricao</td>
+                <td><a href="/Produtos/Alterar/@lista.Id">Alterar</a></td>
+                <td><a href="/Produtos/Deletar/@lista.Id" onclick="return confirm('Tem certeza que deseja excluir?')">Deletar &times;</a></td>
+
+            </tr>
+        }
+    </table>
+    -------------------------------------------------------------------------------------
+    <p>Cadastrar novo Item</p>
+    <p><a class="btn btn-default" href="/Produtos/Adicionar">Cadastrar &raquo;</a></p>
+
+</div>

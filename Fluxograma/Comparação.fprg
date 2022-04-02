@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ModalGR"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-03-16 10:32:07 "/>
+        <attribute name="created" value="TW9kYWxHUjtERVNLVE9QLTQ1SjJCSEk7MjAyMi0wMy0xNjsiMTA6Mjc6NTcgIjsyODYy"/>
+        <attribute name="edited" value="TW9kYWxHUjtERVNLVE9QLTQ1SjJCSEk7MjAyMi0wMy0xNjsiMTA6MzI6MDcgIjs1OzI5NjU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c" type="Integer" array="False" size=""/>
+            <assign variable="a" expression="1"/>
+            <assign variable="b" expression="1"/>
+            <assign variable="c" expression="3"/>
+            <output expression="a!=b" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

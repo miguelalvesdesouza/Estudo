@@ -1,0 +1,33 @@
+﻿@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+
+}
+<h2>LOGIN</h2>
+
+<form action="/Login/ChecarLogin" method="post">
+
+    <div class="row">
+        <div class="col-sm-4 col-sm-offset-4 text-left">
+            <label for="userId" class="col-form-label">Usuario: </label>
+            <input type="email" class="form-control-sm" name="Email" id="Email" />
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-sm-4 col-sm-offset-4 text-left">
+            <label for="userPassword" class="col-form-label">Senha: </label>
+            <input type="password" class="form-control-sm" name="Senha" id="Senha" />
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="button">
+            <button class="btn btn-primary" type="submit">Entrar</button>
+        </div>
+
+    </div>
+    <h3>Valores obtidos da Session</h3>
+    <hr />
+    Session : @HttpContextAccessor.HttpContext.Session.GetString("session")
+</form>

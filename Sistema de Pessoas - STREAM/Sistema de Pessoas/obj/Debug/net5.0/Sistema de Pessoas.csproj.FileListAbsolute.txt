@@ -1,0 +1,16 @@
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\bin\Debug\net5.0\Sistema de Pessoas.exe
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\bin\Debug\net5.0\Sistema de Pessoas.deps.json
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\bin\Debug\net5.0\Sistema de Pessoas.runtimeconfig.json
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\bin\Debug\net5.0\Sistema de Pessoas.runtimeconfig.dev.json
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\bin\Debug\net5.0\Sistema de Pessoas.dll
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\bin\Debug\net5.0\ref\Sistema de Pessoas.dll
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\bin\Debug\net5.0\Sistema de Pessoas.pdb
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net5.0\Sistema de Pessoas.csproj.AssemblyReference.cache
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net5.0\Sistema de Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net5.0\Sistema de Pessoas.AssemblyInfoInputs.cache
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net5.0\Sistema de Pessoas.AssemblyInfo.cs
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net5.0\Sistema de Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net5.0\Sistema de Pessoas.dll
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net5.0\ref\Sistema de Pessoas.dll
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net5.0\Sistema de Pessoas.pdb
+C:\Users\ModalGR\source\repos\Sistema de Pessoas\Sistema de Pessoas\obj\Debug\net5.0\Sistema de Pessoas.genruntimeconfig.cache

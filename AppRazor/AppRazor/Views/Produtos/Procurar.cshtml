@@ -1,0 +1,18 @@
+﻿@{
+    var pesquisa = ViewBag.ProdutosPesquisa;
+
+}
+<div>
+    @foreach (var listaPesquisa in pesquisa)
+    {
+        <table>
+            <tr>
+                <td title="Nome">@listaPesquisa.Nome</td>
+                <td title="Descrição">@listaPesquisa.Descricao</td>
+                <td><a href="/Produtos/Alterar/@listaPesquisa.Id">Alterar</a></td>
+                <td><a href="/Produtos/Deletar/@listaPesquisa.Id" onclick="confirm('Tem certeza que deseja excluir?')">Deletar &times;</a></td>
+
+            </tr>
+        </table>
+    }
+</div>
