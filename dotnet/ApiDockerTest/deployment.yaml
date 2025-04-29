@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: minhaapi-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: minhaapi
+  template:
+    metadata:
+      labels:
+        app: minhaapi
+    spec:
+      containers:
+        - name: minhaapi
+          image: api-docker-test
+          imagePullPolicy: Never
+          ports:
+            - containerPort: 80

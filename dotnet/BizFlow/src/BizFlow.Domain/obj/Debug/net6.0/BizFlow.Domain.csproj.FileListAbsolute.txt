@@ -1,0 +1,12 @@
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Domain/bin/Debug/net6.0/BizFlow.Domain.deps.json
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Domain/bin/Debug/net6.0/BizFlow.Domain.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Domain/bin/Debug/net6.0/BizFlow.Domain.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Domain/obj/Debug/net6.0/BizFlow.Domain.csproj.AssemblyReference.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Domain/obj/Debug/net6.0/BizFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Domain/obj/Debug/net6.0/BizFlow.Domain.AssemblyInfoInputs.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Domain/obj/Debug/net6.0/BizFlow.Domain.AssemblyInfo.cs
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Domain/obj/Debug/net6.0/BizFlow.Domain.csproj.CoreCompileInputs.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Domain/obj/Debug/net6.0/BizFlow.Domain.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Domain/obj/Debug/net6.0/refint/BizFlow.Domain.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Domain/obj/Debug/net6.0/BizFlow.Domain.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Domain/obj/Debug/net6.0/ref/BizFlow.Domain.dll

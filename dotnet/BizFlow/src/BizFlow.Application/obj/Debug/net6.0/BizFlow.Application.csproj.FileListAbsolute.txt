@@ -1,0 +1,17 @@
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/bin/Debug/net6.0/BizFlow.Application.deps.json
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/bin/Debug/net6.0/BizFlow.Application.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/bin/Debug/net6.0/BizFlow.Application.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/bin/Debug/net6.0/BizFlow.Domain.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/bin/Debug/net6.0/BizFlow.Infrastructure.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/bin/Debug/net6.0/BizFlow.Domain.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/bin/Debug/net6.0/BizFlow.Infrastructure.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/obj/Debug/net6.0/BizFlow.Application.csproj.AssemblyReference.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/obj/Debug/net6.0/BizFlow.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/obj/Debug/net6.0/BizFlow.Application.AssemblyInfoInputs.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/obj/Debug/net6.0/BizFlow.Application.AssemblyInfo.cs
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/obj/Debug/net6.0/BizFlow.Application.csproj.CoreCompileInputs.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/obj/Debug/net6.0/BizFlow.Application.csproj.CopyComplete
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/obj/Debug/net6.0/BizFlow.Application.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/obj/Debug/net6.0/refint/BizFlow.Application.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/obj/Debug/net6.0/BizFlow.Application.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Application/obj/Debug/net6.0/ref/BizFlow.Application.dll

@@ -1,0 +1,15 @@
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/bin/Debug/net6.0/BizFlow.Infrastructure.deps.json
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/bin/Debug/net6.0/BizFlow.Infrastructure.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/bin/Debug/net6.0/BizFlow.Infrastructure.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/bin/Debug/net6.0/BizFlow.Domain.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/bin/Debug/net6.0/BizFlow.Domain.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/obj/Debug/net6.0/BizFlow.Infrastructure.csproj.AssemblyReference.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/obj/Debug/net6.0/BizFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/obj/Debug/net6.0/BizFlow.Infrastructure.AssemblyInfoInputs.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/obj/Debug/net6.0/BizFlow.Infrastructure.AssemblyInfo.cs
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/obj/Debug/net6.0/BizFlow.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/obj/Debug/net6.0/BizFlow.Infrastructure.csproj.CopyComplete
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/obj/Debug/net6.0/BizFlow.Infrastructure.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/obj/Debug/net6.0/refint/BizFlow.Infrastructure.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/obj/Debug/net6.0/BizFlow.Infrastructure.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/BizFlow/src/BizFlow.Infrastructure/obj/Debug/net6.0/ref/BizFlow.Infrastructure.dll

@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = CadastroBlazor
+build_property.RootNamespace = CadastroBlazor
+build_property.ProjectDir = /Users/migueldesouza/Documents/Estudo/dotnet/Cadastro/CadastroBlazor/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/migueldesouza/Documents/Estudo/dotnet/Cadastro/CadastroBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/migueldesouza/Documents/Estudo/dotnet/Cadastro/CadastroBlazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/migueldesouza/Documents/Estudo/dotnet/Cadastro/CadastroBlazor/Pages/Alunos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWx1bm9zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/migueldesouza/Documents/Estudo/dotnet/Cadastro/CadastroBlazor/Pages/Component.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/migueldesouza/Documents/Estudo/dotnet/Cadastro/CadastroBlazor/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/migueldesouza/Documents/Estudo/dotnet/Cadastro/CadastroBlazor/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/migueldesouza/Documents/Estudo/dotnet/Cadastro/CadastroBlazor/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/migueldesouza/Documents/Estudo/dotnet/Cadastro/CadastroBlazor/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/migueldesouza/Documents/Estudo/dotnet/Cadastro/CadastroBlazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/migueldesouza/Documents/Estudo/dotnet/Cadastro/CadastroBlazor/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jpw89bekc5
+
+[/Users/migueldesouza/Documents/Estudo/dotnet/Cadastro/CadastroBlazor/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jt3kakidqx

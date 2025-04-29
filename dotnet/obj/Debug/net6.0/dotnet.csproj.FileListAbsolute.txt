@@ -1,0 +1,5 @@
+/Users/migueldesouza/Documents/Estudo/dotnet/obj/Debug/net6.0/dotnet.csproj.AssemblyReference.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/obj/Debug/net6.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migueldesouza/Documents/Estudo/dotnet/obj/Debug/net6.0/dotnet.AssemblyInfoInputs.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/obj/Debug/net6.0/dotnet.AssemblyInfo.cs
+/Users/migueldesouza/Documents/Estudo/dotnet/obj/Debug/net6.0/dotnet.csproj.CoreCompileInputs.cache

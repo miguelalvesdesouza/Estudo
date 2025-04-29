@@ -1,0 +1,14 @@
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/bin/Debug/net9.0/MeuProjeto
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/bin/Debug/net9.0/MeuProjeto.deps.json
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/bin/Debug/net9.0/MeuProjeto.runtimeconfig.json
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/bin/Debug/net9.0/MeuProjeto.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/bin/Debug/net9.0/MeuProjeto.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/obj/Debug/net9.0/MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/obj/Debug/net9.0/MeuProjeto.AssemblyInfoInputs.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/obj/Debug/net9.0/MeuProjeto.AssemblyInfo.cs
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/obj/Debug/net9.0/MeuProjeto.csproj.CoreCompileInputs.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/obj/Debug/net9.0/MeuProjeto.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/obj/Debug/net9.0/refint/MeuProjeto.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/obj/Debug/net9.0/MeuProjeto.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/obj/Debug/net9.0/MeuProjeto.genruntimeconfig.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/MeuProjeto/obj/Debug/net9.0/ref/MeuProjeto.dll

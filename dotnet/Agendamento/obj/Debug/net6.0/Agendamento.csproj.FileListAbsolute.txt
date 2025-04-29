@@ -1,0 +1,15 @@
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/bin/Debug/net6.0/Agendamento
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/bin/Debug/net6.0/Agendamento.deps.json
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/bin/Debug/net6.0/Agendamento.runtimeconfig.json
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/bin/Debug/net6.0/Agendamento.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/bin/Debug/net6.0/Agendamento.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/obj/Debug/net6.0/Agendamento.csproj.AssemblyReference.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/obj/Debug/net6.0/Agendamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/obj/Debug/net6.0/Agendamento.AssemblyInfoInputs.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/obj/Debug/net6.0/Agendamento.AssemblyInfo.cs
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/obj/Debug/net6.0/Agendamento.csproj.CoreCompileInputs.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/obj/Debug/net6.0/Agendamento.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/obj/Debug/net6.0/refint/Agendamento.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/obj/Debug/net6.0/Agendamento.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/obj/Debug/net6.0/Agendamento.genruntimeconfig.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/Agendamento/obj/Debug/net6.0/ref/Agendamento.dll

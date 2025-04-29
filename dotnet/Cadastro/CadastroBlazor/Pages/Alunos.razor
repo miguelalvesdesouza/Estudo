@@ -1,0 +1,20 @@
+@using CadastroBlazor.Services
+
+@page "/alunos"
+@inject AlunoService AlunoService
+
+<h1>Cadastro de alunos</h1>
+
+<input @bind="Nome" placeholder="Nome" />
+<input @bind="Telefone" placeholder="Telefone" />
+<button @onclick="SalvarAluno">Salvar</button>
+
+@code {
+    private string Nome { get; set; } = string.Empty;
+    private string Telefone { get; set; } = string.Empty;
+
+    private async Task SalvarAluno()
+    {
+        await AlunoService.CreateAluno(Nome, Telefone);
+    }
+}

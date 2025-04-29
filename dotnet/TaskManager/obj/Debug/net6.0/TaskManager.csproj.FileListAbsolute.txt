@@ -1,0 +1,15 @@
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/bin/Debug/net6.0/TaskManager
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/bin/Debug/net6.0/TaskManager.deps.json
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/bin/Debug/net6.0/TaskManager.runtimeconfig.json
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/bin/Debug/net6.0/TaskManager.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/bin/Debug/net6.0/TaskManager.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/obj/Debug/net6.0/TaskManager.csproj.AssemblyReference.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/obj/Debug/net6.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/obj/Debug/net6.0/TaskManager.AssemblyInfoInputs.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/obj/Debug/net6.0/TaskManager.AssemblyInfo.cs
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/obj/Debug/net6.0/TaskManager.csproj.CoreCompileInputs.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/obj/Debug/net6.0/TaskManager.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/obj/Debug/net6.0/refint/TaskManager.dll
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/obj/Debug/net6.0/TaskManager.pdb
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/obj/Debug/net6.0/TaskManager.genruntimeconfig.cache
+/Users/migueldesouza/Documents/Estudo/dotnet/TaskManager/obj/Debug/net6.0/ref/TaskManager.dll
